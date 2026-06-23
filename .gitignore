@@ -1,0 +1,17 @@
+# Throwaway copy created by run_dml() in the notebook
+_scratch.db
+*.db.tmp
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# IDE
+.idea/
+
+solutions.ipynb
+seed.py
+schema.sql
